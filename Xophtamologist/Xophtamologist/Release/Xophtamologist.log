@@ -1,0 +1,21 @@
+﻿  Xophtamologist.cpp
+C:\Users\MrSuperBuddy\source\repos\Xophtamologist\Xophtamologist\Xophtamologist.cpp(160,7): warning C4552: "<": результат выражения не используется
+C:\Users\MrSuperBuddy\source\repos\Xophtamologist\Xophtamologist\Xophtamologist.cpp(170,10): warning C4552: "<": результат выражения не используется
+C:\Users\MrSuperBuddy\source\repos\Xophtamologist\Xophtamologist\Xophtamologist.cpp(175,10): warning C4552: "<": результат выражения не используется
+C:\Users\MrSuperBuddy\source\repos\Xophtamologist\Xophtamologist\Xophtamologist.cpp(240,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Xophtamologist\Xophtamologist\Xophtamologist.cpp(296,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Xophtamologist\Xophtamologist\Xophtamologist.cpp(352,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Xophtamologist\Xophtamologist\Xophtamologist.cpp(406,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Xophtamologist\Xophtamologist\Xophtamologist.cpp(460,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Xophtamologist\Xophtamologist\Xophtamologist.cpp(514,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Xophtamologist\Xophtamologist\Xophtamologist.cpp(568,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Xophtamologist\Xophtamologist\Xophtamologist.cpp(622,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Xophtamologist\Xophtamologist\Xophtamologist.cpp(676,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Xophtamologist\Xophtamologist\Xophtamologist.cpp(730,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Xophtamologist\Xophtamologist\Xophtamologist.cpp(784,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+  Создание кода
+  1 of 16 functions ( 6.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Xophtamologist.vcxproj -> C:\Users\MrSuperBuddy\source\repos\Xophtamologist\Release\Xophtamologist.exe
